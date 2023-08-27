@@ -6,6 +6,6 @@ sha256.raw('This is an example')
 ```
 
 ```javascript
-sha256.raw('This is an example')
+sha256.hex('This is an example')
 '47fb563cc8f86dc37c86d08bc542968f7986acd81c97bf76db7ad744407fe117'
 ```
